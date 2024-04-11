@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=antoniochavesgarcia.antoniochavesgarcia&right_color=black&left_text=Profile%20vistiors"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=antoniochavesgarcia.antoniochavesgarcia&right_color=black&left_text=Profile%20visitors"  />
 </div>
 
 ###
