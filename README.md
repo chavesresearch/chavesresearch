@@ -1,14 +1,10 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/C4E16AQE7ox87VxEcIQ/profile-displaybackgroundimage-shrink_350_1400/0/1648247173903?e=1718236800&v=beta&t=gwJIeWnUufdhRfZ0wWK1UXtAEC2R5LGlAFyabzlmM9g"  />
-</div>
-
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/antoniochavesgarcia/" target="_blank">
+  <a href="https://www.linkedin.com/in/chavesresearch/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/chaves_research" target="_blank">
+  <a href="https://twitter.com/chavesresearch" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
